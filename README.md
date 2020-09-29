@@ -3,11 +3,11 @@
 
 ![offline](assets/images/IMG_20200929_100440.jpg)
 Info|Contact
----------------------------------------------|---------------------------------------------
-> * I using Termux, Windows 10 and Kali linux.|> - Discord:
-> * Founder "l0calSerVe4".|>   - Me: NickSaltFoxu#7273
-> * I have free hugs. :3|> - Mail: senyaprojectg@gmail.com
----------------------------------------------|---------------------------------------------
+--------------------------------------------- | ---------------------------------------------
+> * I using Termux, Windows 10 and Kali linux. | > - Discord:
+> * Founder "l0calSerVe4". | >   - Me: NickSaltFoxu#7273
+> * I have free hugs. :3 | > - Mail: senyaprojectg@gmail.com
+--------------------------------------------- | ---------------------------------------------
 <!--
 **BlueBerrySans365/BlueBerrySans365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
