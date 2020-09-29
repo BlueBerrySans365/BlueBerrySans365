@@ -1,5 +1,5 @@
 
-#### Some of repo have some secret. #butwhocares | @nicksalt.xyz
+#### Visit my [site](https://nicksaltfoxu.ml) | [@nicksalt.xyz](https://instagram.com/nicksalt.xyz)
 ---------------------------------------------
 > I using Termux, Windows 10 and Kali linux.
 ---------------------------------------------
