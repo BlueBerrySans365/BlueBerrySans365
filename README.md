@@ -1,6 +1,8 @@
 
 #### Some of repo with some secret. #butwhocares | @nicksalt.xyz
-
+---------------------------------------------
+> I using Termux, Windows 10 and Kali linux.
+---------------------------------------------
 <!--
 **BlueBerrySans365/BlueBerrySans365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
