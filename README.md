@@ -1,5 +1,5 @@
 
-#### Some of repo with some secret. #butwhocares | @nicksalt.xyz
+#### Some of repo have some secret. #butwhocares | @nicksalt.xyz
 ---------------------------------------------
 > I using Termux, Windows 10 and Kali linux.
 ---------------------------------------------
