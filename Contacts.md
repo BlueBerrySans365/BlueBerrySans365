@@ -1,5 +1,5 @@
 > - Discord:
->  - Me: NickSaltFoxu#7273
->  - Server: discord.gg/
+>   - Me: NickSaltFoxu#7273
+>   - Server: discord.gg/
 > - Mail: 
->  - Default: senyaprojectg@gmail.com
+>   - Default: senyaprojectg@gmail.com
