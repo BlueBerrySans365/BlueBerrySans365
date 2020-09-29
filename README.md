@@ -1,6 +1,6 @@
 
 #### Just visit my [site](https://nicksaltfoxu.ml) | [Instagram](https://instagram.com/nicksalt.xyz)
-(assets/images/IMG_20200929_100440.jpg)
+[offline](assets/images/IMG_20200929_100440.jpg)
 ---------------------------------------------
 > * I using Termux, Windows 10 and Kali linux.
 > * Founder "l0calSerVe4".
