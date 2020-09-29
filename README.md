@@ -1,5 +1,5 @@
 
-#### Just visit my [site](https://nicksaltfoxu.ml) | [Instagram](https://instagram.com/nicksalt.xyz)
+#### Just visit my [site](https://nicksaltfoxu.ml) | [Instagram](https://l0calserve4.ml)
 
 ![offline](assets/images/IMG_20200929_100440.jpg)
 ---------------------------------------------
