@@ -1,6 +1,6 @@
 
 #### Just visit my [site](https://nicksaltfoxu.ml) | [Instagram](https://l0calserve4.ml)
-[![NickSaltFoxu's github stats](https://github-readme-stats.vercel.app/api?username=BlueBerrySans365?size=200)](https://github.com/BlueBerrySans365)
+[![NickSaltFoxu's github stats](https://github-readme-stats.vercel.app/api?username=BlueBerrySans365)](https://github.com/BlueBerrySans365)
 ![offline](assets/images/IMG_20200929_100440.jpg)
 ------------------------------------------------------------------------------------------
 > * I using Termux, Windows 10 and Kali linux. 
