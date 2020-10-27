@@ -14,7 +14,7 @@ Please visit my friend's [profile](https://github.com/Hatsune-Mikun)
 
 #### Stats
 
-[![NickSaltFoxu's github stats](https://github-readme-stats.vercel.app/api?username=BlueBerrySans365&show_icons=true&theme=tokyonight&custom_title=NickSaltFoxu)](https://github.com/BlueBerrySans365)<br/>
+[![NickSaltFoxu's github stats](https://github-readme-stats.vercel.app/api?username=BlueBerrySans365&show_icons=true&theme=tokyonight&custom_title=NickSaltFoxu)](https://github.com/BlueBerrySans365)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBerrySans365&theme=tokyonight)](https://github.com/BlueBerrySans365)
 
 
