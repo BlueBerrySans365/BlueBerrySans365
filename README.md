@@ -12,11 +12,12 @@ Currently working on :<br/>
 
 Please visit my friend's [profile](https://github.com/Hatsune-Mikun)
 
-#### Stats
+# Stats
 
+-----------
 [![NickSaltFoxu's github stats](https://github-readme-stats.vercel.app/api?username=BlueBerrySans365&show_icons=true&theme=tokyonight&custom_title=NickSaltFoxu)](https://github.com/BlueBerrySans365)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBerrySans365&theme=tokyonight)](https://github.com/BlueBerrySans365)
-
+-----------
 
 <!--![offline](assets/images/IMG_20200929_100440.jpg)-->
 <!--
