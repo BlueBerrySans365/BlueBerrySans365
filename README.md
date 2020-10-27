@@ -14,7 +14,7 @@
 > * I have free bugs. :3 
 ------------------------------------------------------------------------------------------
 <!--
-**BlueBerrySans365/BlueBerrySans365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BlueBerrySans365/BlueBerrySans365** is a ✨ _special_ ✨ repository because its `README.md` (this file1 appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
