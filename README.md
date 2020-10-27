@@ -1,3 +1,4 @@
+<img src="https://github.com/BlueBerrySans365/nicksaltfoxu.ml/blob/master/assets/images/logo.png">
 # Info
 
 Currently working on:<br/>
