@@ -4,7 +4,7 @@
 -----------
 <p align="center">
 Currently working on : <br/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&show_icons=true&theme=tokyonight" style="width:307px;height:921px;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&show_icons=true&theme=tokyonight" style="width:307px;height:921px;" alt="https://github.com/BlueBerrySans365/chill-zone-DRPC">
 <!--[![Chill Zone Card](https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&show_icons=true&theme=tokyonight)](https://github.com/BlueBerrySans365/chill-zone-DRPC)--><br/>
 </p>
 
