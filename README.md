@@ -1,7 +1,7 @@
 # Info
 
 Currently working on:<br/>
-[![Chill Zone Card](https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&show_icons=true)](https://github.com/BlueBerrySans365/chill-zone-DRPC&theme=tokyonight)<br/>
+[![Chill Zone Card](https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&show_icons=true&theme=tokyonight)](https://github.com/BlueBerrySans365/chill-zone-DRPC)<br/>
 Please visit my friend's [profile](https://github.com/Hatsune-Mikun)
 
 #### Stats
