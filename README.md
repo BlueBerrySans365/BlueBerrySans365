@@ -1,4 +1,4 @@
-<img src="https://github.com/BlueBerrySans365/BlueBerrySans365/blob/master/assets/images/logo2.png" style="width:307px;height:921px;">
+<img src="https://github.com/BlueBerrySans365/BlueBerrySans365/blob/master/assets/images/logo2.jpg" style="width:307px;height:921px;">
 
 # Info
 
