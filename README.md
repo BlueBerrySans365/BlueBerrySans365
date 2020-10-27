@@ -1,10 +1,11 @@
 <img src="https://github.com/BlueBerrySans365/BlueBerrySans365/blob/master/assets/images/logo2.jpg" style="width:307px;height:921px;">
-# Info
 
+# Info
+<p align="center">
 Currently working on:<br/>
 [![Chill Zone Card](https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&show_icons=true&theme=tokyonight)](https://github.com/BlueBerrySans365/chill-zone-DRPC)<br/>
 Please visit my friend's [profile](https://github.com/Hatsune-Mikun)
-
+</p>
 #### Stats
 
 [![NickSaltFoxu's github stats](https://github-readme-stats.vercel.app/api?username=BlueBerrySans365&show_icons=true&theme=tokyonight&custom_title=NickSaltFoxu)](https://github.com/BlueBerrySans365)<br/>
