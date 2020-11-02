@@ -2,7 +2,7 @@
 
 # Info
 -----------
-<p align="center">Hello everyone!<br><br> I'm Nick Salt, and i love python :3<br>Hobbyist 14lv.<br> Sometimes likes playing Minecraft<br> Sometimes works with node.js<br>
+<p align="center">Hello everyone!<br><br> I'm Nick Salt, and i love python :3<br>Hobbyist 14lv.<br> Sometimes likes playing Minecraft<br> Sometimes works with node.js<br>P.S. Sometimes i creating something in unity
 <img scr="https://github.com/BlueBerrySans365/BlueBerrySans365/raw/master/assets/images/20201103_001321.gif">
 <br><br>
 Currently working on : <br/>
@@ -23,6 +23,10 @@ Please visit my friend's [profile](https://github.com/Hatsune-Mikun)
 [![NickSaltFoxu's github stats](https://github-readme-stats.vercel.app/api?username=BlueBerrySans365&show_icons=true&theme=tokyonight&custom_title=NickSaltFoxu)](https://github.com/BlueBerrySans365)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBerrySans365&theme=tokyonight)](https://github.com/BlueBerrySans365)
 -----------
+
+# P.S.
+I can destroy games, sorry if i did this with your game.
+![](assets/images/20201103_001321.gif)
 
 <!--![offline](assets/images/IMG_20200929_100440.jpg)-->
 <!--
