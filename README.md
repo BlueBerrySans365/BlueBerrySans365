@@ -24,7 +24,7 @@ Please visit my friend's [profile](https://github.com/Hatsune-Mikun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBerrySans365&theme=tokyonight)](https://github.com/BlueBerrySans365)
 -----------
 
-# P.S.
+## P.S.
 I can destroy games, sorry if i did this with your game.
 ![](assets/images/20201103_001321.gif)
 
