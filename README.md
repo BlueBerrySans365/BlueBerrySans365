@@ -7,7 +7,7 @@
 <br><br>
 Currently working on : <br/>
 <a href="https://github.com/BlueBerrySans365/chill-zone-DRPC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&show_icons=true&theme=tokyonight" style="width:307px;height:921px;"></a>
-<a href="https://github.com/BlueBerrySans365/minerunner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=minerunner&show_icons=true&theme=tokyonight" style="width:307px;height:921px;"></a>
+<a href="https://github.com/BlueBerrySans365/minerunner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=minerunner&theme=tokyonight" style="width:307px;height:921px;"></a>
 <!--[![Chill Zone Card](https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&show_icons=true&theme=tokyonight)](https://github.com/BlueBerrySans365/chill-zone-DRPC)--><br/>
 </p>
 
