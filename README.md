@@ -2,7 +2,7 @@
 
 # Info
 -----------
-<p align="center">
+<p align="center">Hello everyone!<br><br> I'm Nick Salt, and i love python :3<br>Hobbyist 14lv.<br> Sometimes likes playing Minecraft<br> Sometimes works with node.js<br><a href=""> <img scr=""></a>
 Currently working on : <br/>
 <a href="https://github.com/BlueBerrySans365/chill-zone-DRPC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&show_icons=true&theme=tokyonight" style="width:307px;height:921px;"></a>
 <a href="https://github.com/BlueBerrySans365/minerunner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=minerunner&show_icons=true&theme=tokyonight" style="width:307px;height:921px;"></a>
