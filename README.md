@@ -2,7 +2,7 @@
 
 # Info
 -----------
-<p align="center">Hello everyone!<br><br> I'm Nick Salt, and i love python :3<br>Hobbyist 14lv.<br> Sometimes likes playing Minecraft<br> Sometimes works with node.js<br>P.S. Sometimes i creating something in unity
+<p align="center">Hello everyone!<br><br> I'm Nick Salt, and i love python :3<br>Hobbyist 14lv.<br> Sometimes likes playing Minecraft<br> Sometimes works with node.js<br>Sometimes i creating something in Unity<br> (Please, don't look in my projects which created with Unity)
 <img scr="https://github.com/BlueBerrySans365/BlueBerrySans365/raw/master/assets/images/20201103_001321.gif">
 <br><br>
 Currently working on : <br/>
