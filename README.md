@@ -26,7 +26,7 @@ Please visit my friend's [profile](https://github.com/Hatsune-Mikun)
 
 ## P.S.
 I can destroy games, sorry if i did this with your game.
-[![](assets/images/20201103_001321.gif)](https://github.com/BlueBerrySans365)
+[![REEEEEE](assets/images/20201103_001321.gif)](https://github.com/BlueBerrySans365)
 
 <!--![offline](assets/images/IMG_20200929_100440.jpg)-->
 <!--
