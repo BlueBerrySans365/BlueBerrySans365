@@ -6,7 +6,7 @@
 <img scr="https://github.com/BlueBerrySans365/BlueBerrySans365/raw/master/assets/images/20201103_001321.gif">
 <br><br>
 Currently working on : <br/>
-<a href="https://github.com/BlueBerrySans365/chill-zone-DRPC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&theme=tokyonight" style="width:307px;height:921px;"></a>
+<!-- <a href="https://github.com/BlueBerrySans365/chill-zone-DRPC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&theme=tokyonight" style="width:307px;height:921px;"></a> -->
 <a href="https://github.com/BlueBerrySans365/DiscordRP-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=DiscordRP-Engine&theme=tokyonight" style="width:307px;height:921px;"></a>
 <a href="https://github.com/BlueBerrySans365/minerunner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=minerunner&theme=tokyonight&show_icons=true" style="width:307px;height:921px;"></a>
 <!--[![Chill Zone Card](https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&show_icons=true&theme=tokyonight)](https://github.com/BlueBerrySans365/chill-zone-DRPC)--><br/>
