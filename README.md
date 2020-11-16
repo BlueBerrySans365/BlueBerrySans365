@@ -2,8 +2,9 @@
 
 # Info
 -----------
-
-Currently working on : <br/>
+Hi there, I'm Nick - aka. [NickSaltFox](https://nicksaltfoxu.ml)  
+I'm are Developer and sometimes Meme Youtuber. <br><br>
+Currently working on : <br>
 <!-- <a href="https://github.com/BlueBerrySans365/chill-zone-DRPC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&theme=tokyonight" style="width:307px;height:921px;"></a> -->
 <a href="https://github.com/BlueBerrySans365/DiscordRP-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=DiscordRP-Engine&theme=tokyonight" style="width:307px;height:921px;"></a>
 <a href="https://github.com/BlueBerrySans365/minerunner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=minerunner&theme=tokyonight&show_icons=true" style="width:307px;height:921px;"></a>
@@ -22,6 +23,8 @@ Please visit my friend's [profile](https://github.com/Hatsune-Mikun)
 - Tools: <br><br> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Windows 10" width="26px" src="https://github.com/BlueBerrySans365/BlueBerrySans365/raw/master/assets/images/icons/win10.png"/>
+<img align="left" alt="Discord" width="26px" src="https://github.com/BlueBerrySans365/BlueBerrySans365/raw/master/assets/images/icons/discord-3-569463.webp"/>
+<img align="left" alt="Unity" width="26px" src="https://github.com/BlueBerrySans365/BlueBerrySans365/raw/master/assets/images/icons/unity-512.webp"/>
 <br><br>
 
 - Languages i use for websites: <br><br>
@@ -55,13 +58,13 @@ Please visit my friend's [profile](https://github.com/Hatsune-Mikun)
 -----------
 <br><br>
 
-# Contact me
+# Contact me if you want
 
 -----------
 
 [<img align="left" alt="NickSaltFoxu YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCdrTyL48C4wg0M3QfHX58TQ)
 [<img align="left" alt="NickSaltFoxu Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/NeoNikTheFox)
-[<img align="left" alt="NickSaltFoxu Discord" width="26px" src="https://cdn.glitch.com/f029f4cd-4cb1-466d-aab5-3476854984f7%2Ficonfinder_Discord_4923080.png?v=1599640449211" />](https://nicksaltfoxu.ml/discord)
+[<img align="left" alt="NickSaltFoxu Discord" width="30px" src="https://cdn.glitch.com/f029f4cd-4cb1-466d-aab5-3476854984f7%2Ficonfinder_Discord_4923080.png?v=1599640449211"/>](https://nicksaltfoxu.ml/discord)
 <br>
 
 ----------
