@@ -65,9 +65,11 @@ Please visit my friend's [profile](https://github.com/Hatsune-Mikun)
 [<img align="left" alt="NickSaltFoxu YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCdrTyL48C4wg0M3QfHX58TQ)
 [<img align="left" alt="NickSaltFoxu Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/NeoNikTheFox)
 [<img align="left" alt="NickSaltFoxu Discord" width="30px" src="https://cdn.glitch.com/f029f4cd-4cb1-466d-aab5-3476854984f7%2Ficonfinder_Discord_4923080.png?v=1599640449211"/>](https://nicksaltfoxu.ml/discord)
+Poor Dark Discord icon .w.
 <br>
 
 ----------
+<br><br>
 
 ## P.S.
 I can destroy games, sorry if i did this with your game.<br>
