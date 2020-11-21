@@ -17,36 +17,6 @@ Please visit my friend's [profile](https://github.com/Hatsune-Mikun)
 
 <br><br>
 
-### Languages and Tools:
-
-----------
-- Tools: <br><br> 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="Windows 10" width="26px" src="https://github.com/BlueBerrySans365/BlueBerrySans365/raw/master/assets/images/icons/win10.png"/>
-<img align="left" alt="Discord" width="26px" src="https://github.com/BlueBerrySans365/BlueBerrySans365/raw/master/assets/images/icons/discord-3-569463.webp"/>
-<img align="left" alt="Unity" width="26px" src="https://github.com/BlueBerrySans365/BlueBerrySans365/raw/master/assets/images/icons/unity-512.webp"/>
-<br><br>
-
-- Languages i use for websites: <br><br>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<br><br>
-
-- Languages i use for Discord bots: <br><br>
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img align="left" alt="MongoDB" width="31px" src="https://github.com/BlueBerrySans365/BlueBerrySans365/raw/master/assets/images/icons/mongodb.png"/>
-<img align="left" alt="Python" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<br><br>
-
-- Languages i use for applications: <br><br>
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
-<img align="left" alt="Python" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<br><br>
-
-----------
-<br><br>
 
 # Stats
 
