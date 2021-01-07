@@ -18,7 +18,7 @@ Please visit my friend's [profile](https://github.com/Hatsune-Mikun)
 
 <br><br>
 
-
+<!--
 # Stats
 
 -----------
@@ -45,7 +45,7 @@ Poor Dark Discord icon .w.
 ## P.S.
 I can destroy games, sorry if i did this with your game.<br>
 [![REEEEEE](assets/images/20201103_001321.gif)](https://github.com/BlueBerrySans365)
-
+-->
 <!--![offline](assets/images/IMG_20200929_100440.jpg)-->
 <!--
 **BlueBerrySans365/BlueBerrySans365** is a ✨ _special_ ✨ repository because its `README.md` (this file1 appears on your GitHub profile.
