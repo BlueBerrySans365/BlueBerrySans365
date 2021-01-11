@@ -14,19 +14,17 @@ Currently working on : <br>
 
 -----------
 
-Please visit my friend's [profile](https://github.com/Hatsune-Mikun)
-
-<br><br>
-
------------
-
 [![NickSaltFoxu's github stats](https://github-readme-stats.vercel.app/api?username=BlueBerrySans365&show_icons=true&custom_title=NickSaltFoxu)](https://github.com/BlueBerrySans365)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBerrySans365)](https://github.com/BlueBerrySans365)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBerrySans365)](https://github.com/BlueBerrySans365)-->
 
 -----------
 <!--
 # Stats
+-----------
 
+Please visit my friend's [profile](https://github.com/Hatsune-Mikun)
+
+<br><br>
 
 <br><br>
 
