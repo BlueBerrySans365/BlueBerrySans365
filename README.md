@@ -13,7 +13,7 @@ Currently working on : <br>
 </p>
 
 -----------
-
+[![Spotify](https://api.nicksaltfoxu.ml/SOMETHINGLIKESPOIFYT)](https://open.spotify.com/user/omnitenebris)
 [![NickSaltFoxu's github stats](https://github-readme-stats.vercel.app/api?username=BlueBerrySans365&show_icons=true&custom_title=NickSaltFoxu)](https://github.com/BlueBerrySans365)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBerrySans365)](https://github.com/BlueBerrySans365)-->
 
