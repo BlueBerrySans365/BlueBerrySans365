@@ -5,15 +5,23 @@
 -----------
 Hi there, I'm Nick - aka. [NickSaltFox](https://nicksaltfoxu.ml)  
 I'm are Developer and sometimes Meme Youtuber. <br><br>
-Currently working on : <br>
-<!-- <a href="https://github.com/BlueBerrySans365/chill-zone-DRPC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&theme=tokyonight" style="width:307px;height:921px;"></a> -->
+Now listening on spotify:  
+[![Spotify](https://api.nicksaltfoxu.ml/SOMETHINGLIKESPOIFYT)](https://open.spotify.com/user/omnitenebris)
+<!--Currently working on : <br>
+<a href="https://github.com/BlueBerrySans365/chill-zone-DRPC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&theme=tokyonight" style="width:307px;height:921px;"></a>
+<p align="center">
 <a href="https://github.com/BlueBerrySans365/DiscordRP-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=DiscordRP-Engine" style="width:307px;height:921px;"></a>
 <a href="https://github.com/BlueBerrySans365/minerunner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=minerunner&show_icons=true" style="width:307px;height:921px;"></a>
-<!--[![Chill Zone Card](https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&show_icons=true&theme=tokyonight)](https://github.com/BlueBerrySans365/chill-zone-DRPC)--><br/>
 </p>
+-->
+ 
+
+
+<!--[![Chill Zone Card](https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&show_icons=true&theme=tokyonight)](https://github.com/BlueBerrySans365/chill-zone-DRPC)--><br/>
+
 
 -----------
-[![Spotify](https://api.nicksaltfoxu.ml/SOMETHINGLIKESPOIFYT)](https://open.spotify.com/user/omnitenebris)
+
 [![NickSaltFoxu's github stats](https://github-readme-stats.vercel.app/api?username=BlueBerrySans365&show_icons=true&custom_title=NickSaltFoxu)](https://github.com/BlueBerrySans365)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBerrySans365)](https://github.com/BlueBerrySans365)-->
 
