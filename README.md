@@ -6,7 +6,7 @@
 Hi there, I'm Nick - aka. [NickSaltFox](https://nicksaltfoxu.ml)  
 I'm are Developer and sometimes Meme Youtuber. <br><br>
 Now listening on spotify:  
-[![Spotify](https://api.nicksaltfoxu.ml/SOMETHINGLIKESPOIFYT)](https://open.spotify.com/user/av9sbgbouq472yvswrakfb9b9)
+[![Spotify](https://api.l0calserve4.ml/SOMETHINGLIKESPOIFYT)](https://open.spotify.com/user/av9sbgbouq472yvswrakfb9b9)
 <!--Currently working on : <br>
 <a href="https://github.com/BlueBerrySans365/chill-zone-DRPC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueBerrySans365&repo=chill-zone-DRPC&theme=tokyonight" style="width:307px;height:921px;"></a>
 <p align="center">
