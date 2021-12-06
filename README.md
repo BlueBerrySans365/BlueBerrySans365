@@ -1,4 +1,4 @@
-<a href="https://github.com/BlueBerrySans365"><img src="https://github.com/BlueBerrySans365/BlueBerrySans365/blob/master/assets/images/logo2.jpg" style="width:921px;height:305px;"></a>
+<a href="https://github.com/BlueBerrySans365"><img src="https://github.com/BlueBerrySans365/BlueBerrySans365/blob/master/assets/images/logo2.jpg" style="width:915px;height:305px;"></a>
 <!--<a href="https://github.com/BlueBerrySans365"><img src="https://nicksaltfoxu.ml/assets/images/card.png" style="width:307px;height:921px;"></a>-->
 
 # Info
