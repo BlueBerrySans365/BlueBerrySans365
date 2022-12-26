@@ -4,7 +4,7 @@
 # Info
 -----------
 Hi there, I'm Nick - aka. [NickSaltFox](https://nicksaltfoxu.ml)  
-I'm are Developer and sometimes Meme Youtuber. <br><br>
+no more.
 <br>
 <img align="center" src="https://count.getloli.com/get/@blueberrysans365" alt="Visitor Count :trollface:" />
 <br><br>
