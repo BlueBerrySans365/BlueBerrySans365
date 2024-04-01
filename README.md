@@ -13,8 +13,7 @@ After much of failed projects that not even was posted here... I don't know what
 I don't see myself as a programmer  
   
 I think, I lost interest in coding.  
-  
-This is not even a f**king joke.  
+
 Thanks for everything guys.    
   
   
@@ -24,3 +23,6 @@ Thanks for everything guys.
 Now, I'll see how bad my rank will go.  
   
 [![NickSaltFoxu's github stats](https://github-readme-stats.vercel.app/api?username=BlueBerrySans365&show_icons=true&custom_title=NickSaltFoxu)](https://github.com/BlueBerrySans365)
+
+
+P.S. Maybe I'll be back some day. but for now, my journey stops here.  Thank you for being with me guys.  See ya.
