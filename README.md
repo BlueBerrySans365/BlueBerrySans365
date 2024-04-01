@@ -1,6 +1,6 @@
 Hello, I'm Nick (or Nick P. irl, some of my friends know this)  
 I was a lil programmer. 
-Started with a discord bot on python with my old friend, who then took everything after bot was verified. (He said that he will sell it, bot named NexChan)  
+Started with a discord bot on python with my old friend, who then took everything after bot was verified. (After Heroku disabled all free hosting he said that he will sell it, bot named NexChan)  
 After that - I forgot about him and this bot, I don't see a future of this bot. 
   
 Then, I poorly ported HMtai, package that my dear, old friend, Mikun did, to python package.  
